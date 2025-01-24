@@ -25,3 +25,4 @@ The **Numbers Puzzle Game**, also known as the **15 Puzzle Game**, is a sliding 
 2. **Arrange the shuffled tiles** in order by sliding them into the empty space.
 3. Use **Undo** and **Redo** to manage moves.
 4. Solve the puzzle with the **fewest moves** to set a high score!
+[Watch the demo video]<video src="" controls width="800"></video>
