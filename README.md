@@ -27,4 +27,4 @@ The **Numbers Puzzle Game**, also known as the **15 Puzzle Game**, is a sliding 
 4. Solve the puzzle with the **fewest moves** to set a high score!
 ---
 ## **Watch the demo video**
-- <video src="Demo Video.mp4" controls width="800"></video>
+![Demo] <video src="Demo Video.mp4" controls width="800"></video>
